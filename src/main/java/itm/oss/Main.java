@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        //Calculator calc = new Calculator();        
+        Calculator calc = new Calculator();        
         while (true) {
             System.out.println("=== Calculator Menu ===");
             System.out.println("1. Add");
